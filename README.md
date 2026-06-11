@@ -1,16 +1,133 @@
-# React + Vite
+# 🎵 Nandouau - Website Oficial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site oficial desenvolvido para divulgação do artista **Nandouau**, reunindo informações sobre sua trajetória, lançamento de singles, galerias exclusivas, redes sociais e conteúdos relacionados à carreira musical.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Sobre o Projeto
 
-## React Compiler
+Este projeto foi desenvolvido com foco em uma experiência moderna, responsiva e **Mobile First**, oferecendo uma navegação fluida tanto em dispositivos móveis quanto em desktops.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O site foi concebido para servir como plataforma central de divulgação do artista, concentrando informações, mídias e links oficiais em um único ambiente.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Funcionalidades
+
+* Hero Carousel com destaques do artista
+* Página de apresentação e biografia
+* Página dedicada ao single **"Já Sabia"**
+* Player de teaser em vídeo
+* Galeria exclusiva (em preparação para lançamento)
+* Página de redes sociais oficiais
+* Design responsivo (Mobile First)
+* Navegação SPA utilizando React Router
+* Hospedagem otimizada através da Vercel
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+* React
+* Vite
+* React Router DOM
+* Tailwind CSS
+* Swiper.js
+* Lucide React
+* React Icons
+
+---
+
+## 📱 Responsividade
+
+O projeto foi desenvolvido seguindo a abordagem **Mobile First**, garantindo uma excelente experiência de uso em:
+
+* Smartphones
+* Tablets
+* Notebooks
+* Monitores Desktop
+
+---
+
+## 🎨 Identidade Visual
+
+A identidade visual do projeto foi inspirada na estética oficial do artista, utilizando elementos visuais modernos, contrastes fortes e uma paleta baseada em tons escuros, prata, branco e preto para reforçar a presença da marca Nandouau.
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text
+src/
+├── assets/
+├── components/
+├── data/
+├── pages/
+├── App.jsx
+└── main.jsx
+```
+
+---
+
+## ⚙️ Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nandouau.git
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd nandouau
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto em ambiente de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+---
+
+## 🏗️ Build para Produção
+
+```bash
+npm run build
+```
+
+Para visualizar localmente a versão de produção:
+
+```bash
+npm run preview
+```
+
+---
+
+## 🌐 Deploy
+
+O projeto está hospedado utilizando a plataforma **Vercel**.
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido por **Davi Atila**
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/atiladavi/
+
+---
+
+## 📄 Licença
+
+Este projeto foi desenvolvido exclusivamente para o artista **Nandouau**.
+
+Todos os direitos de imagens, músicas, vídeos, marcas e conteúdos relacionados ao artista pertencem aos seus respectivos proprietários.
