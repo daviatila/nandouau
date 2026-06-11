@@ -20,7 +20,7 @@ export default function Gallery() {
             A galeria oficial ainda está sendo preparada.
             Após o lançamento do single <strong>"Já Sabia"</strong>,
             este espaço receberá conteúdos exclusivos para quem acompanha
-            o projeto desde o início
+            o projeto desde o início.
           </p>
 
           <div className="mt-12 grid gap-5 md:grid-cols-3">
@@ -60,12 +60,17 @@ export default function Gallery() {
               Continue acompanhando o site
             </h3>
 
-            <p className="mt-4 text-zinc-300">
+            <p className="-mb-2 mt-4 text-zinc-300">
               Novos conteúdos serão adicionados após o lançamento de
-              <strong> Já sabia</strong>. Volte em breve para conferir
-              fotos exclusivas do clipe, bastidores da produção e o
+              <strong> Já sabia</strong>
+            </p>
+
+            <p className="mt-4 text-zinc-300">
+              Volte em breve para conferir
+              fotos exclusivas do clipe, bastidores e o
               photoshoot oficial do single
             </p>
+            
           </div>
         </div>
       </section>
