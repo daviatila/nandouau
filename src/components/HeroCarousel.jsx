@@ -53,7 +53,7 @@ export default function HeroCarousel() {
     {
       sobtitle: "MOMENTOS",
       title: "GALERIA",
-      subtitle: "Registros de shows, gravações e bastidores",
+      subtitle: "Registros de shows e bastidores",
       image: slide5,
       link: "/galeria",
       button: "Ver Galeria",

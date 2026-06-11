@@ -1,3 +1,4 @@
+import Footer from "../components/Footer";
 import slide3 from "../assets/slides/slide-3.jpeg";
 
 export default function Artist() {
@@ -51,6 +52,7 @@ export default function Artist() {
                 </div>
             </section>
 
+            <Footer />
         </main>
     );
 }

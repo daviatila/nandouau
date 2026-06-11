@@ -1,4 +1,5 @@
 import GalleryHero from "../components/GalleryHero";
+import Footer from "../components/Footer";
 
 export default function Gallery() {
   return (
@@ -68,6 +69,8 @@ export default function Gallery() {
           </div>
         </div>
       </section>
+
+      <Footer />
     </main>
   );
 }

@@ -47,12 +47,12 @@ export default function Socials() {
 
             <section className="relative z-10 flex min-h-screen items-center px-6 py-20">
                 <div className="mx-auto w-full max-w-4xl">
-                    <div className="mb-12 text-center">
+                    <div className="mb-10 text-center">
                         <span className="text-sm uppercase tracking-[0.35em] text-zinc-400">
                             Redes Sociais
                         </span>
 
-                        <div className="mt-6 flex justify-center">
+                        <div className="mt-3 flex justify-center">
                             <img
                                 src={logo}
                                 alt="Nandouau"
@@ -60,7 +60,7 @@ export default function Socials() {
                             />
                         </div>
 
-                        <p className="mx-auto mt-6 max-w-xl text-zinc-300">
+                        <p className="mx-auto mt-3 max-w-xl text-zinc-300">
                             Acompanhe Nandouau nas plataformas oficiais
                         </p>
                     </div>
