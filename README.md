@@ -69,48 +69,6 @@ src/
 
 
 
-## ⚙️ Instalação
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/nandouau.git
-```
-
-Acesse a pasta do projeto:
-
-```bash
-cd nandouau
-```
-
-Instale as dependências:
-
-```bash
-npm install
-```
-
-Execute o projeto em ambiente de desenvolvimento:
-
-```bash
-npm run dev
-```
-
-
-
-## 🏗️ Build para Produção
-
-```bash
-npm run build
-```
-
-Para visualizar localmente a versão de produção:
-
-```bash
-npm run preview
-```
-
-
-
 ## 🌐 Deploy
 
 O projeto está hospedado utilizando a plataforma **Vercel**.
