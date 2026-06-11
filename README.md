@@ -2,7 +2,7 @@
 
 Site oficial desenvolvido para divulgação do artista **Nandouau**, reunindo informações sobre sua trajetória, lançamento de singles, galerias exclusivas, redes sociais e conteúdos relacionados à carreira musical.
 
----
+
 
 ## ✨ Sobre o Projeto
 
@@ -10,7 +10,7 @@ Este projeto foi desenvolvido com foco em uma experiência moderna, responsiva e
 
 O site foi concebido para servir como plataforma central de divulgação do artista, concentrando informações, mídias e links oficiais em um único ambiente.
 
----
+
 
 ## 🚀 Funcionalidades
 
@@ -24,7 +24,7 @@ O site foi concebido para servir como plataforma central de divulgação do arti
 * Navegação SPA utilizando React Router
 * Hospedagem otimizada através da Vercel
 
----
+
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -36,7 +36,7 @@ O site foi concebido para servir como plataforma central de divulgação do arti
 * Lucide React
 * React Icons
 
----
+
 
 ## 📱 Responsividade
 
@@ -47,13 +47,13 @@ O projeto foi desenvolvido seguindo a abordagem **Mobile First**, garantindo uma
 * Notebooks
 * Monitores Desktop
 
----
+
 
 ## 🎨 Identidade Visual
 
 A identidade visual do projeto foi inspirada na estética oficial do artista, utilizando elementos visuais modernos, contrastes fortes e uma paleta baseada em tons escuros, prata, branco e preto para reforçar a presença da marca Nandouau.
 
----
+
 
 ## 📂 Estrutura do Projeto
 
@@ -67,7 +67,7 @@ src/
 └── main.jsx
 ```
 
----
+
 
 ## ⚙️ Instalação
 
@@ -95,7 +95,7 @@ Execute o projeto em ambiente de desenvolvimento:
 npm run dev
 ```
 
----
+
 
 ## 🏗️ Build para Produção
 
@@ -109,13 +109,13 @@ Para visualizar localmente a versão de produção:
 npm run preview
 ```
 
----
+
 
 ## 🌐 Deploy
 
 O projeto está hospedado utilizando a plataforma **Vercel**.
 
----
+
 
 ## 👨‍💻 Desenvolvedor
 
@@ -124,7 +124,7 @@ Desenvolvido por **Davi Atila**
 🔗 LinkedIn:
 https://www.linkedin.com/in/atiladavi/
 
----
+
 
 ## 📄 Licença
 
