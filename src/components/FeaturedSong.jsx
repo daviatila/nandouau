@@ -1,4 +1,4 @@
-import { Music4 } from "lucide-react";
+import { Music4, CirclePlus } from "lucide-react";
 import { useEffect, useState } from "react";
 
 import capa from "../assets/capas/capa.jpg";
@@ -76,29 +76,17 @@ export default function FeaturedSong() {
             </div>
           )}
 
-          {/* Pré Save */}
-          <div className="px-6 pt-6">
-            <a
-              href="https://ffm.to/emakqgd"
-              target="_blank"
-              rel="noreferrer"
-              className="
-                            flex
-                            w-full
-                            items-center
-                            justify-center
-                            rounded-full
-                            bg-[#9b3e29]
-                            px-6
-                            py-4
-                            font-semibold
-                            text-white
-                            transition
-                            hover:bg-[#b54a32]
-                        "
-            >
-              Fazer Pré-Save
-            </a>
+          {/* Informações */}
+          <div className="px-10 pb-2 text-center">
+
+            <span className="block mt-6 text-sm uppercase tracking-[0.3em] text-[#9b3e29]">
+              Novo Single
+            </span>
+
+            <h2 className="mt-3 text-5xl font-black text-white">
+              JÁ SABIA
+            </h2>
+
           </div>
 
           {/* Capa Grande */}
@@ -115,32 +103,52 @@ export default function FeaturedSong() {
             />
           </div>
 
-          {/* Informações */}
           <div className="px-6 pb-8 text-center">
 
-            <span className="block text-sm uppercase tracking-[0.3em] text-[#9b3e29]">
-              Novo Single
-            </span>
-
-            <h2 className="mt-3 text-5xl font-black text-white">
-              JÁ SABIA
-            </h2>
-
-            <p className="mt-5 text-lg italic text-zinc-400">
+            <p className=" text-sm italic text-zinc-400">
               "Cérebro faça o meu coração de aprendiz"
             </p>
 
             <h3
               className="
-                            mt-8
-                            text-2xl
+                            mt-5
+                            text-xl
                             font-black
                             text-white
                             md:text-3xl
                         "
             >
-              DISPONÍVEL DIA 16 DE JUNHO ÀS 22H
+              DISPONÍVEL DIA 16 ÀS 22H
             </h3>
+
+            {/* Pré Save */}
+            <div className="px-6 pt-6">
+              <a
+                href="https://ffm.to/emakqgd"
+                target="_blank"
+                rel="noreferrer"
+                className="
+                          inline-flex
+                          w-fit
+                          items-center
+                          justify-center
+                          gap-2
+                          rounded-full
+                          bg-[#9b3e29]
+                          px-5
+                          py-3
+                          font-semibold
+                          text-white
+                          transition-all
+                          duration-300
+                          hover:bg-[#b54a32]
+                          hover:scale-105
+                          "
+              >
+                Pré-salvar
+                <CirclePlus size={20} />
+              </a>
+            </div>
 
           </div>
 

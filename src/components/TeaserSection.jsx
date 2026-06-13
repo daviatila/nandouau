@@ -8,7 +8,7 @@ export default function TeaserSection() {
             from-black
             to-black
             px-6
-            py-12
+            py-8
         "
         >
             <div className="max-w-6xl mx-auto">

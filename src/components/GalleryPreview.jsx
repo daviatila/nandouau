@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function GalleryPreview() {
   return (
-    <section className="bg-black px-6 py-16">
+    <section className="bg-black px-6 py-12">
       <div className="max-w-4xl mx-auto text-center">
         <span className="uppercase tracking-[0.3em] text-[#9b3e29] text-sm">
           Galeria
