@@ -10,12 +10,6 @@ export default function Home() {
     <main>
       <HeroCarousel />
 
-      
-
-      
-
-      <Countdown />
-
       <FeaturedSong />
 
       <TeaserSection />

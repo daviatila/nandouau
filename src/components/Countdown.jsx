@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import cover from "../assets/capas/capa.jpg";
 
 export default function Countdown() {
-    const launchDate = new Date("2026-07-31T00:00:00");
+    const launchDate = new Date("2026-06-16T22:00:00");
 
     const calculateTimeLeft = () => {
         const difference = launchDate - new Date();
