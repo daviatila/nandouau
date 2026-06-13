@@ -13,7 +13,7 @@ export default function GalleryPreview() {
         </h2>
 
         <p className="mt-6 text-zinc-400 max-w-2xl mx-auto">
-          Após o lançamento de <strong>Já Sabia</strong>, esta seção receberá
+          Após o lançamento de <strong>Já sabia</strong>, esta seção receberá
           fotos exclusivas do clipe, bastidores da produção e o photoshoot
           oficial do single
         </p>
