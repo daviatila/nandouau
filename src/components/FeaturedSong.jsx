@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import capa from "../assets/capas/capa.jpg";
 
 export default function FeaturedSong() {
-  const launchDate = new Date("2026-06-16T22:00:00");
+  const launchDate = new Date("2026-06-16T20:00:00");
 
   const calculateTimeLeft = () => {
     const difference = launchDate - new Date();
@@ -118,7 +118,7 @@ export default function FeaturedSong() {
                             md:text-3xl
                         "
             >
-              DISPONÍVEL DIA 16 ÀS 22H
+              DISPONÍVEL DIA 16 ÀS 20H
             </h3>
 
             {/* Pré Save */}

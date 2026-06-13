@@ -2,7 +2,6 @@ import HeroCarousel from "../components/HeroCarousel";
 import FeaturedSong from "../components/FeaturedSong";
 import GalleryPreview from "../components/GalleryPreview";
 import TeaserSection from "../components/TeaserSection";
-import Countdown from "../components/Countdown";
 import Footer from "../components/Footer";
 
 export default function Home() {

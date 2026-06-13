@@ -16,7 +16,7 @@ export default function HeroCarousel() {
     {
       sobtitle: "Novo Lançamento",
       title: "JÁ SABIA",
-      subtitle: "Estreia dia 16 às 22h",
+      subtitle: "Estreia dia 16 às 20h",
       image: slide1,
       link: "https://ffm.to/emakqgd",
       button: "Pré-salvar",
