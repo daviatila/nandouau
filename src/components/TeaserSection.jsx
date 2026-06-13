@@ -5,16 +5,16 @@ export default function TeaserSection() {
     return (
         <section className="
             bg-gradient-to-b
-            from-[#9b3e29]
+            from-black
             to-black
             px-6
-            py-20
+            py-12
         "
         >
             <div className="max-w-6xl mx-auto">
 
-                <div className="text-center mb-10">
-                    {/* <span
+                {/* <div className="text-center mb-10">
+                    <span
                         className="
                         text-[#9b3e29]
                         uppercase
@@ -23,7 +23,7 @@ export default function TeaserSection() {
                         "
                     >
                         Teaser Oficial
-                    </span> */}
+                    </span>
 
                     <h2
                         className="
@@ -47,7 +47,7 @@ export default function TeaserSection() {
                     >
                         Uma prévia exclusiva do clipe
                     </p>
-                </div>
+                </div> */}
 
                 <div className="max-w-2xl mx-auto">
                     <video
