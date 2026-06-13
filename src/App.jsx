@@ -6,6 +6,7 @@ import Gallery from "./pages/Gallery";
 import FloatingMenu from "./components/FloatingMenu";
 import Socials from "./pages/Socials";
 import ScrollToTop from "./components/ScrollToTop";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   return (
@@ -24,6 +25,9 @@ function App() {
 
         <Route path="/redes" element={<Socials />} />
       </Routes>
+
+      <Analytics />
+
     </BrowserRouter>
   );
 }
