@@ -5,11 +5,14 @@ import Artist from "./pages/Artist";
 import Gallery from "./pages/Gallery";
 import FloatingMenu from "./components/FloatingMenu";
 import Socials from "./pages/Socials";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
     <BrowserRouter>
 
+      <ScrollToTop />
+      
       <FloatingMenu />
 
       <Routes>
