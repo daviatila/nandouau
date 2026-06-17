@@ -145,7 +145,7 @@ export default function FeaturedSong() {
                           hover:scale-105
                           "
               >
-                Ouça
+                Ouça agora
                 <Music size={20} />
               </a>
             </div>

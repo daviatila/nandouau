@@ -16,7 +16,7 @@ export default function HeroCarousel() {
     {
       sobtitle: "Novo Lançamento",
       title: "JÁ SABIA",
-      subtitle: "Out now",
+      subtitle: "Disponível no Spotify",
       image: slide1,
       link: "https://open.spotify.com/intl-pt/track/6YQzm3848IoVsIE0IiczSk?si=acc871ef3e5a4f2c",
       button: "Ouça agora",
@@ -25,10 +25,10 @@ export default function HeroCarousel() {
     {
       sobtitle: "Novo Lançamento",
       title: "JÁ SABIA",
-      subtitle: "Clipe disponível dia 20 às 19h30",
+      subtitle: "Disponível em todas as plataformas",
       image: slide2,
-      link: "",
-      button: "Em Breve",
+      link: "https://ffm.to/emakqgd",
+      button: "Ouça agora",
       imagePosition: "center center",
     },
     
