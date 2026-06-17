@@ -118,7 +118,7 @@ export default function FeaturedSong() {
                             md:text-3xl
                         "
             >
-              OUÇO AGORA EM TODAS AS PLATAFORMAS
+              DISPONÍVEL EM TODAS AS PLATAFORMAS
             </h3>
 
             {/* Pré Save */}
