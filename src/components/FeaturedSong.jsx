@@ -1,4 +1,4 @@
-import { Music4, CirclePlus } from "lucide-react";
+import { Music4, Music, CirclePlus } from "lucide-react";
 import { useEffect, useState } from "react";
 
 import capa from "../assets/capas/capa.jpg";
@@ -118,7 +118,7 @@ export default function FeaturedSong() {
                             md:text-3xl
                         "
             >
-              DISPONÍVEL DIA 16 ÀS 20H
+              OUÇO AGORA EM TODAS AS PLATAFORMAS
             </h3>
 
             {/* Pré Save */}
@@ -145,8 +145,8 @@ export default function FeaturedSong() {
                           hover:scale-105
                           "
               >
-                Pré-salvar
-                <CirclePlus size={20} />
+                Ouça
+                <Music size={20} />
               </a>
             </div>
 

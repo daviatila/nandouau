@@ -16,10 +16,10 @@ export default function HeroCarousel() {
     {
       sobtitle: "Novo Lançamento",
       title: "JÁ SABIA",
-      subtitle: "Estreia dia 16 às 20h",
+      subtitle: "Out now",
       image: slide1,
-      link: "https://ffm.to/emakqgd",
-      button: "Pré-salvar",
+      link: "https://open.spotify.com/intl-pt/track/6YQzm3848IoVsIE0IiczSk?si=acc871ef3e5a4f2c",
+      button: "Ouça agora",
       imagePosition: "center top",
     },
     {
